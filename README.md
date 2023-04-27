@@ -1,1 +1,3 @@
 # ilkgithubreo
+
+Merhaba repoma hosgeldiniz
